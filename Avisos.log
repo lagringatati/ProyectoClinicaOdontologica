@@ -1,0 +1,4 @@
+
+[http-nio-8080-exec-10] DEBUG com.dh.clinica.controller.OdontologoController  - No se encuentra el odontologo con id 5
+[http-nio-8080-exec-1] DEBUG com.dh.clinica.controller.DomicilioController  - No se encuentra el domicilio con id 4
+[http-nio-8080-exec-8] DEBUG com.dh.clinica.controller.PacienteController  - No se encuentra el paciente con id 4
